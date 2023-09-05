@@ -1,2 +1,8 @@
 streamlit
 tensorflow
+utils
+numpy
+PIL.Image
+os
+cv2
+pandas
