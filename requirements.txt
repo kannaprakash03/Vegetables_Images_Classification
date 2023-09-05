@@ -3,3 +3,4 @@ streamlit
 tensorflow
 utils
 predicted_label
+python -m pip install --upgrade pip
