@@ -2,4 +2,3 @@ Streamlit
 tensorflow
 keras
 utils
-predict_label
