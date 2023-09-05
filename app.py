@@ -3,7 +3,6 @@ import streamlit as st
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 from keras.utils import load_img,img_to_array
-from utils import predict_label
 from PIL import Image
 import numpy as np
 st.title("Vegetables images classification")
